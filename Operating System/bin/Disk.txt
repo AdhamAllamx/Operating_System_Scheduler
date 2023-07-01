@@ -1,0 +1,6 @@
+a=src/value_file.txt
+b=1
+null
+assign a input
+assign b input
+writeFile a b
